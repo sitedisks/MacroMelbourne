@@ -1,5 +1,0 @@
-C:\Git\MacroMelbourne\mm.trinity\bin\mm.trinity.dll.config
-C:\Git\MacroMelbourne\mm.trinity\bin\mm.trinity.dll
-C:\Git\MacroMelbourne\mm.trinity\bin\mm.trinity.pdb
-C:\Git\MacroMelbourne\mm.trinity\obj\Debug\mm.trinity.dll
-C:\Git\MacroMelbourne\mm.trinity\obj\Debug\mm.trinity.pdb

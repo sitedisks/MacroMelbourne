@@ -166,6 +166,7 @@
     <Content Include="images\twitter.png" />
     <Content Include="images\underline.png" />
     <Content Include="images\zoom.png" />
+    <Content Include="index1.html" />
     <Content Include="index.html" />
     <Content Include="index2.html" />
     <Content Include="index3.html" />
