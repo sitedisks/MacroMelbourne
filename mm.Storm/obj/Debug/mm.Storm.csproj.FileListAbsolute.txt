@@ -1,0 +1,6 @@
+C:\Git\MacroMelbourne\mm.Storm\bin\mm.Storm.dll.config
+C:\Git\MacroMelbourne\mm.Storm\bin\mm.Storm.dll
+C:\Git\MacroMelbourne\mm.Storm\bin\mm.Storm.pdb
+C:\Git\MacroMelbourne\mm.Storm\obj\Debug\mm.Storm.dll
+C:\Git\MacroMelbourne\mm.Storm\obj\Debug\mm.Storm.pdb
+C:\Git\MacroMelbourne\mm.Storm\obj\Debug\mm.Storm.csprojResolveAssemblyReference.cache
