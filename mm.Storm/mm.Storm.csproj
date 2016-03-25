@@ -171,6 +171,7 @@
     <Content Include="index2.html" />
     <Content Include="index3.html" />
     <Content Include="index4.html" />
+    <Content Include="js\angular.min.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\classie.js" />
     <Content Include="js\default.js" />
@@ -221,6 +222,7 @@
     <Content Include="js\respond.js" />
     <Content Include="js\styleswitch.js" />
     <Content Include="js\tweetie.min.js" />
+    <Content Include="js\ui-bootstrap-tpls.min.js" />
     <Content Include="js\waypoints.min.js" />
     <Content Include="mail.php" />
     <Content Include="portfolio.html" />
