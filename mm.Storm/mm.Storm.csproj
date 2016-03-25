@@ -139,6 +139,8 @@
     <Content Include="images\logo copia.png" />
     <Content Include="images\logo--footer.png" />
     <Content Include="images\logo.png" />
+    <Content Include="images\logo_sitedisks.png" />
+    <Content Include="images\logo_sitedisks_b.png" />
     <Content Include="images\map\pointer-black.png" />
     <Content Include="images\map\pointer-blue.png" />
     <Content Include="images\map\pointer-green.png" />
@@ -192,6 +194,7 @@
     <Content Include="images\rarrow.png" />
     <Content Include="images\raster.png" />
     <Content Include="images\scrollup.png" />
+    <Content Include="images\sitedisks_logo.png" />
     <Content Include="images\start-project.png" />
     <Content Include="images\twitter.png" />
     <Content Include="images\underline.png" />

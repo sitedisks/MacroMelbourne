@@ -585,7 +585,7 @@ a.navbar-brand.mini {
 }
 
 #header .menu-item a {
-    color: #000000;
+    color: #fff;
     text-transform: lowercase;
     font-size: 15px;
     line-height: 6px;
