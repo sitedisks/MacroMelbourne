@@ -1,0 +1,25 @@
+{
+  "name": "Macro Melbourne Storm",
+  "homepage": "www.sitedisks.com.au",
+  "authors": [
+    "Peter <peter@sitedisks.com.au>"
+  ],
+  "description": "Macro Melbourne Storm",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "Macro",
+    "Melbourne"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.2"
+  }
+}
