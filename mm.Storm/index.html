@@ -30,12 +30,15 @@
         <script src="./js/respond.js"></script>
     <![endif]-->
 </head>
-<body>
+<body data-ng-app="macroApp" data-ng-cloak>
+
+    <div data-ng-controller="macroAppCtrl">
+    </div>
 
     <div id="ip-container" class="ip-container">
         <header class="ip-header">
             <div class="ip-logo">
-                <img src="images/logo_sitedisks_b.png" alt="logo" />
+                <img src="images/logo/logo_macro_b.png" alt="logo" />
             </div>
             <div class="ip-loader">
                 <svg class="ip-inner" width="60px" height="60px" viewBox="0 0 80 80">
@@ -51,7 +54,7 @@
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                         <i class="fa fa-bars"></i>
                     </button>
-                    <a class="navbar-brand normal" href="#home"><img src="images/logo_sitedisks.png" alt="LOGO SiteDisks" /></a>
+                    <a class="navbar-brand normal" href="#home"><img src="images/logo/logo_macro_w.png" alt="LOGO SiteDisks" /></a>
                     <a class="navbar-brand mini" href="#home">STORM</a>
                 </div>
                 <nav class="collapse navbar-collapse navbar-main-collapse">
@@ -75,8 +78,11 @@
         <div id="owl-main" class="owl-carousel">
 
             <div class="item"><img src="/images/bg/mm_skyscrapers_bw.jpg" alt=""></div>
-            <div class="item"><img src="/images/bg/mm_architecture_bw.jpg" alt=""></div>
-            <!--<div class="item"><img src="/images/bg/mm-cricket-ground_bw.jpg" alt=""></div>-->
+            <div class="item"><img src="/images/bg/Marco_BRAND_GOLF.jpg" alt=""></div>
+            <div class="item"><img src="/images/bg/Marco_EXTERIOR-SECTION_CBD_Render.jpg" alt=""></div>
+            <div class="item"><img src="/images/bg/Marco_BRAND_GIRL-&-CAR.jpg" alt=""></div>
+            <div class="item"><img src="/images/bg/Marco_BRAND_WATCH-&-GLOVE.jpg" alt=""></div>
+            <div class="item"><img src="/images/bg/Marco_BRAND_MAN-&-VIEW_V2.jpg" alt=""></div>
         </div>
         <div class="slide-content">
             <div id="owl-main-text" class="owl-carousel">
@@ -99,8 +105,10 @@
 
         </div>
         <div class="slide-subtitle">
-            <p>Register your interest<br/>
-            Or Call +61 3 9696 7777</p>
+            <p>
+                Register your interest<br />
+                Or Call +61 3 9696 7777
+            </p>
             <div class="slide-sep"></div>
         </div>
     </section>
@@ -829,7 +837,6 @@
     </div>
     <!-- END MAP SECTION -->
 
-
     <footer id="footer" class="section footer" role="contentinfo">
         <div class="container">
             <h3 class="title thin">get social</h3>
@@ -858,7 +865,6 @@
         </div>
     </footer>
 
-
     <!-- BEGIN Scripts-->
     <script type="text/javascript" src="js/modernizr.custom.js"></script>
     <script type="text/javascript" src="js/jquery.js"></script>
@@ -883,6 +889,10 @@
     <script type="text/javascript" src="js/default.js"></script>
     <script type="text/javascript" src="js/plugins.js"></script>
     <!-- END Scripts -->
+    <!-- START Angular -->
+    <script src="app/macroApp.js"></script>
+    <script src="app/macroController.js"></script>
+    <!-- END Angular -->
 
 </body>
 </html>

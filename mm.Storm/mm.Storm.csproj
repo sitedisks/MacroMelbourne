@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".DS_Store" />
+    <Content Include="app\macroController.js" />
     <Content Include="fonts\fontawesome-webfont.eot" />
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.woff" />
@@ -102,6 +103,13 @@
     <Content Include="css\YTPlayer.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\linecons.svg" />
+    <Content Include="images\bg\Marco_BRAND_CBD.jpg" />
+    <Content Include="images\bg\Marco_BRAND_GIRL-&amp;-CAR.jpg" />
+    <Content Include="images\bg\Marco_BRAND_GOLF.jpg" />
+    <Content Include="images\bg\Marco_BRAND_MAN-&amp;-VIEW_V2.jpg" />
+    <Content Include="images\bg\Marco_BRAND_WATCH-&amp;-GLOVE.jpg" />
+    <Content Include="images\bg\Marco_EXTERIOR-SECTION_CBD_Render.jpg" />
+    <Content Include="images\bg\Marco_POOL_Render.jpg" />
     <Content Include="images\bg\mm-cricket-ground.jpg" />
     <Content Include="images\bg\mm-cricket-ground_bw.jpg" />
     <Content Include="images\bg\mm_architecture.jpg" />
@@ -142,8 +150,10 @@
     <Content Include="images\logo copia.png" />
     <Content Include="images\logo--footer.png" />
     <Content Include="images\logo.png" />
-    <Content Include="images\logo_sitedisks.png" />
-    <Content Include="images\logo_sitedisks_b.png" />
+    <Content Include="images\logo\logo_macro_b.png" />
+    <Content Include="images\logo\logo_macro_w.png" />
+    <Content Include="images\logo\logo_sitedisks.png" />
+    <Content Include="images\logo\logo_sitedisks_b.png" />
     <Content Include="images\map\pointer-black.png" />
     <Content Include="images\map\pointer-blue.png" />
     <Content Include="images\map\pointer-green.png" />
@@ -223,6 +233,7 @@
     <Content Include="js\jquery.mb.YTPlayer.js" />
     <Content Include="js\jquery.nav.js" />
     <Content Include="js\jquery.validate.js" />
+    <Content Include="app\macroApp.js" />
     <Content Include="js\modernizr.custom.js" />
     <Content Include="js\owl-carousel\AjaxLoader.gif" />
     <Content Include="js\owl-carousel\grabbing.png" />
@@ -267,6 +278,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
