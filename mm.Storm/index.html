@@ -30,8 +30,9 @@
         <script src="./js/respond.js"></script>
     <![endif]-->
 </head>
-<body>
+<body data-ng-app="macroApp" data-ng-cloak>
 
+    <div data-ng-controller="macroAppCtrl">
 
         <div id="ip-container" class="ip-container">
             <header class="ip-header">
@@ -53,7 +54,7 @@
                             <i class="fa fa-bars"></i>
                         </button>
                         <a class="navbar-brand normal" href="#home"><img src="images/logo/logo_macro_w.png" alt="LOGO SiteDisks" /></a>
-                        <a class="navbar-brand mini" href="#home">MACRO SKY</a>
+                        <a class="navbar-brand mini" href="#home">{{'BTN_TEXT_EN' | translate}}</a>
                     </div>
                     <nav class="collapse navbar-collapse navbar-main-collapse">
                         <ul id="nav" class="nav navbar-nav navigation">
@@ -863,6 +864,7 @@
             </div>
         </footer>
 
+    </div>
 
     <!-- BEGIN Scripts-->
     <script type="text/javascript" src="js/modernizr.custom.js"></script>
@@ -887,9 +889,12 @@
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/default.js"></script>
     <script type="text/javascript" src="js/plugins.js"></script>
+    <script type="text/javascript" src="js/angular-translate.min.js"></script>
+    <script type="text/javascript" src="js/angular-translate-loader-static-files.min.js"></script>
     <!-- END Scripts -->
     <!-- START Angular -->
     <script src="app/macroApp.js"></script>
+    <script src="app/macroConfig.js"></script>
     <script src="app/macroController.js"></script>
     <!-- END Angular -->
 

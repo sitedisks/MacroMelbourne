@@ -1,1 +1,1 @@
-﻿angular.module('macroApp', ['ui.bootstrap']);
+﻿angular.module('macroApp', ['ui.bootstrap', 'pascalprecht.translate']);

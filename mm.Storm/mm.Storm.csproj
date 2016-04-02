@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".DS_Store" />
+    <Content Include="app\macroConfig.js" />
     <Content Include="app\macroController.js" />
     <Content Include="fonts\fontawesome-webfont.eot" />
     <Content Include="fonts\fontawesome-webfont.ttf" />
@@ -73,6 +74,8 @@
     <Content Include="fonts\linecons.ttf" />
     <Content Include="fonts\linecons.woff" />
     <Content Include="images\.DS_Store" />
+    <Content Include="data\locale-cn.json" />
+    <Content Include="data\locale-en.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -217,6 +220,8 @@
     <Content Include="index2.html" />
     <Content Include="index3.html" />
     <Content Include="index4.html" />
+    <Content Include="js\angular-translate-loader-static-files.min.js" />
+    <Content Include="js\angular-translate.min.js" />
     <Content Include="js\angular.min.js" />
     <Content Include="js\bootstrap.min.js" />
     <Content Include="js\classie.js" />
