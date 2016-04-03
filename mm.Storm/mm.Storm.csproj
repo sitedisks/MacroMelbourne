@@ -60,6 +60,7 @@
     <Content Include=".DS_Store" />
     <Content Include="app\macroConfig.js" />
     <Content Include="app\macroController.js" />
+    <Content Include="css\macro.css" />
     <Content Include="fonts\fontawesome-webfont.eot" />
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.woff" />

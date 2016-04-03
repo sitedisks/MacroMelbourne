@@ -1,4 +1,16 @@
 ﻿{
-    "BTN_TEXT_EN": "English",
-    "BTN_TEXT_CN": "Chinese"
+    "TXT_MACRO_MELBOURNE": "MACRO MELBOURNE",
+    "TXT_MACRO_SKY": "MACRO SKY",
+    "TXT_MENU_HOME": "Home",
+    "TXT_MENU_FEATURES": "Features",
+    "TXT_MENU_ABOUT": "About",
+    "TXT_MENU_TEAM": "Team",
+    "TXT_MENU_PORTFOLIO": "Portfolio",
+    "TXT_MENU_CLIENTS": "Clients",
+    "TXT_MENU_BLOG": "Blog",
+    "TXT_MENU_LOCATION": "Location",
+    "TXT_MENU_Contact": "Contact",
+
+    "BTN_TEXT_EN": "EN",
+    "BTN_TEXT_CN": "CN"
 }

@@ -1,0 +1,19 @@
+﻿
+#header .menu-culture {
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: normal;
+    text-shadow: 0px 0px 1px transparent;
+    cursor: pointer;
+}
+
+
+
+#header.overflow .menu-culture {
+    font-size: 14px;
+    line-height: 22px;
+    color: #ffffff;
+    font-weight: normal;
+    cursor: pointer;
+}

@@ -1,4 +1,16 @@
 ﻿{
-    "BTN_TEXT_EN": "英文",
-    "BTN_TEXT_CN": "中文"
+    "TXT_MACRO_MELBOURNE": "MACRO MELBOURNE",
+    "TXT_MACRO_SKY": "MACRO SKY",
+    "TXT_MENU_HOME": "首页",
+    "TXT_MENU_FEATURES": "特色",
+    "TXT_MENU_ABOUT": "关于我们",
+    "TXT_MENU_TEAM": "团队",
+    "TXT_MENU_PORTFOLIO": "户型",
+    "TXT_MENU_CLIENTS": "客户",
+    "TXT_MENU_BLOG": "博客",
+    "TXT_MENU_LOCATION": "位置",
+    "TXT_MENU_Contact": "联系我们",
+
+    "BTN_TEXT_EN": "英",
+    "BTN_TEXT_CN": "中"
 }
