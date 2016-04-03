@@ -221,7 +221,7 @@ a img {
     border: 0;
 }
 
-#header a img {
+#header a img.centerlogo {
     position: absolute !important;
     left: 50% !important;
     margin-left: -63px !important;
