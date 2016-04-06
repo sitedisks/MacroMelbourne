@@ -128,6 +128,7 @@ $(document).ready(function () {
                 var saturation = 100;
                 break;
         }
+        // -37.82656	144.96294
         var latlng = new google.maps.LatLng(-37.82656, 144.96294); //<!-- (Fist Value Longitude, Second Value Latitude), can obtain YOUR coordenates here!: http://universimmedia.pagesperso-orange.fr/geo/loc.htm -->
         var styles = [
 			{
@@ -194,7 +195,7 @@ $(document).ready(function () {
             streetViewControl: false,
             draggable: drag,
             scrollwheel: false,
-            panControl: false, zoom: 17,
+            panControl: false, zoom: 15,
             styles: styles
         };
         var wpgmappitymap = new google.maps.Map(document.getElementById('wpgmappitymap'), options);
