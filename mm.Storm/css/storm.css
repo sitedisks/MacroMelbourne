@@ -545,7 +545,8 @@ a.navbar-brand.mini {
 }
 
 #header .navbar-brand {
-    padding: 20px 0px;
+    /*padding: 20px 0px;*/
+    padding: 5px 0 10px 0;
 }
 
 .navbar-brand.mini {
