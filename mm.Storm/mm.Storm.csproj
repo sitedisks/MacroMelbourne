@@ -143,6 +143,11 @@
     <Content Include="images\contact-name-gray.png" />
     <Content Include="images\contact-name.png" />
     <Content Include="images\facebook.png" />
+    <Content Include="images\fine\Marco_FACADE_Render-O.jpg" />
+    <Content Include="images\fine\Marco_FACADE_Render.jpg" />
+    <Content Include="images\fine\Marco_hero-sunset-O.jpg" />
+    <Content Include="images\fine\Marco_hero-sunset.jpg" />
+    <Content Include="images\fine\Marco_living_dining_kitchen.jpg" />
     <Content Include="images\gradient_team.jpg" />
     <Content Include="images\icon-hamburger-white.png" />
     <Content Include="images\icon-hamburger.png" />
