@@ -61,6 +61,7 @@
     <Content Include="app\macroConfig.js" />
     <Content Include="app\macroController.js" />
     <Content Include="css\macro.css" />
+    <Content Include="css\storm.css" />
     <Content Include="fonts\fontawesome-webfont.eot" />
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.woff" />
@@ -103,7 +104,7 @@
     <Content Include="css\font-awesome.min.css" />
     <Content Include="css\isotope.css" />
     <Content Include="css\lineicons.css" />
-    <Content Include="css\storm.css" />
+    <Content Include="css\storm1.css" />
     <Content Include="css\YTPlayer.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\linecons.svg" />
