@@ -3004,13 +3004,13 @@ img.blog-image-tiny {
    19. Video section
    ============================== */
 
-.video {
+].video {
     position: relative;
     width: 100%;
     z-index: 15;
     color: #FFFFFF;
-    /*background-image: url('../images/parallax-02.png');*/
-    background-image: url('http://placehold.it/1440x480');
+    background-image: url('../images/Marco_EXTERIOR-SECTION_CBD_Render.jpg');
+    /*background-image: url('http://placehold.it/1440x480');*/
     padding: 10vw 0px 2vw;
     background-repeat: no-repeat;
     background-size: cover;
