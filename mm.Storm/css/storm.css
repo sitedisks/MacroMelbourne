@@ -3009,9 +3009,9 @@ img.blog-image-tiny {
     width: 100%;
     z-index: 15;
     color: #FFFFFF;
-    background-image: url('../images/Marco_EXTERIOR-SECTION_CBD_Render.jpg');
+    background-image: url('../images/Marco_EXTERIOR-SECTION_CBD_Render_600.jpg');
     /*background-image: url('http://placehold.it/1440x480');*/
-    padding: 10vw 0px 2vw;
+    padding: 20vw 0px 2vw;
     background-repeat: no-repeat;
     background-size: cover;
 }

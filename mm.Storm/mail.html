@@ -1,0 +1,19 @@
+﻿<?php $name=$_POST['name'];
+    $email = $_POST['email'];
+    $message = $_POST['message'];
+    $formcontent = "From $name \n Message: $message";
+    $recipient = "cwan40@gmail.com";
+    $subject = "Contact Form from $name";	// this is for email title
+    $mailheader = "From: $email \r\n";	//
+    mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
+    echo "Thank You!";
+?>
+
+
+<form id="form_email" action="mail2.php" method="post">
+    <p>Name*<br /> <input id="username" type="text" name="name" /></p>
+    <p>Email*<br /> <input id="emailadd" type="text" name="email" size="60" /></p>
+    <p>Message*<br /> <textarea id="eamilcontent" name="message" rows="6" cols="100"></textarea></p>
+    <button id="submitColor" type="button">Send</button>
+    <button id="clearInput" type="reset">Clear</button> <br /><br />
+</form>

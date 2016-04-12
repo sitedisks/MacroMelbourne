@@ -12,6 +12,10 @@
     "TXT_MENU_LOCATION": "Location",
     "TXT_MENU_Contact": "Contact",
 
+    "TXT_PREMIMUM": "Premium",
+    "TXT_COMMUNITY": "Community",
+    "TXT_LOCATION": "Location",
+
     "BTN_TEXT_EN": "EN",
     "BTN_TEXT_CN": "CN"
 }

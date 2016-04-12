@@ -206,6 +206,8 @@ $(document).ready(function () {
             icon: pointerUrl //Custom Pointer URL
         });
 
+        //var point0 = new google.maps.LatLng(-37.82656, 144.96294);
+
         google.maps.event.addListener(marker0, 'click',
 		 function () {
 		     if (infowindow != undefined) {
