@@ -12,11 +12,24 @@
     "TXT_MENU_LOCATION": "位置",
     "TXT_MENU_Contact": "联系我们",
 
-    "TXT_PREMIMUM": "独特",
+    "TXT_REGISTER": "有兴趣请登记",
+    "TXT_CALL_US": "或致电",
+
+    "TXT_PREMIMUM": "奢华",
     "TXT_COMMUNITY": "社区",
     "TXT_LOCATION": "位置",
 
- 
+    "TXT_EXCEPTIONAL_LIVING": "独特的生活方式",
+    "TXT_DISCOVER_EXCEPTIONAL": "感受Marco的独特",
+    "TXT_EXCEPTIONAL_COLLABORATION": "卓越的合作团队",
+
+    "TXT_EXCEPTIONAL_LIVING_LONG": "Marco，位于墨尔本Southbank心脏地带，由著名的Buchan集团精心设计成一个水晶般视觉效果的公寓。Marco坐拥非同寻常的地理位置，它以一個卓越的姿態出現在墨尔本天际线上，邀請你一起享受360°全方位的景观 - 它俯瞰墨尔本CBD，艾伯特公园，澳洲文化艺术中心，菲利海湾。Marco俱乐部向住戶提供一流悠闲和娱乐设施如健身房，游泳池，宴客厅和电影院。这个引人注目的现代化公寓堪舆五星级酒店媲美。",
+    "TXT_DISCOVER_EXCEPTIONAL_LONG": "只要花几分钟就可以抵达河岸上所有的活动。体验皇冠赌场激动人心的场面。漫步在索斯盖特购物广场，或者参观闻名的文艺景点。穿过亚拉河，探索市中心奇妙的巷子里隐藏的宝藏。发掘独特的澳洲酒吧文化，世界闻名的餐厅和具有历史的剧院。花一个阳光明媚的下午在艾伯特公园河边游玩和上高尔夫课程。在绮丽的皇家植物园野餐。无拘无束的畅游在墨尔本最古老的大学，著名画廊，维多利亚女王市场，和国家最好的运动竞技场。",
+    "TXT_EXCEPTIONAL_COLLABORATION_DEVELOPER": "发展商 - 金色阳光公司",
+    "TXT_EXCEPTIONAL_COLLABORATION_DEVELOPER_LONG": "金色阳光开发公司在澳大利亚和海外都有着丰富的物业开发经验，多年来专注于开发优质，大规模，多用途，使用环保能源和高水准的物业。",
+    "TXT_EXCEPTIONAL_COLLABORATION_ARCHITECT": "设计 - Buchan集团",
+    "TXT_EXCEPTIONAL_COLLABORATION_ARCHITECT_LONG": "Buchan集团是澳洲利亚最大的建筑设计公司之一，其优异设计和丰富经验体现在广泛的作品中。Buchan集团创建于1890年，作为一个跨学科的设计公司，它的客户遍布澳大利亚，新西兰，东南亚，中东和英国。",
+
     "BTN_TEXT_EN": "英",
     "BTN_TEXT_CN": "中"
 }

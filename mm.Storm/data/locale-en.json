@@ -12,9 +12,23 @@
     "TXT_MENU_LOCATION": "Location",
     "TXT_MENU_Contact": "Contact",
 
+    "TXT_REGISTER": "Register your interest",
+    "TXT_CALL_US": "Or Call",
+
     "TXT_PREMIMUM": "Premium",
     "TXT_COMMUNITY": "Community",
     "TXT_LOCATION": "Location",
+
+    "TXT_EXCEPTIONAL_LIVING": "EXCEPTIONAL LIVING",
+    "TXT_DISCOVER_EXCEPTIONAL": "DISCOVER EXCEPTIONAL",
+    "TXT_EXCEPTIONAL_COLLABORATION": "EXCEPTIONAL COLLABORATION",
+
+    "TXT_EXCEPTIONAL_LIVING_LONG": "A crystal vision in the heart of Melbourne, Marco commands a prominent presence on the Melbourne skyline. Enjoy astonishing unobstructed views in almost every direction - to the CBD, the Gardens and Arts Precinct, and to Port Phillip Bay. The Podium offers exclusive access for residents and a sensational array of first class service, leisure and entertainment spaces overlooking the city, featuring breathtaking infinity pool, gym, private dining room and cinema. Come home to an expansive, grand entry lobby and gorgeous contemporary apartment living delivered with the style and prestige of a fine hotel, featuring stylish finishes and quality materials throughout.",
+    "TXT_DISCOVER_EXCEPTIONAL_LONG": "Dive into all the action of modern city living in Melbourne, the world’s most liveable city. experience the astonishing array of exciting offers at Crown Casino. Stroll through Southgate’s Shopping Complex, or take in the spectacular attractions of the renowned Arts Precinct. Slip across the river and explore the hidden treasures of the CBD’s intriguing laneways. Discover secret bars, world-famous restaurants and historic theatres. Spend a sunny afternoon at Albert Park Lake and golf course. Picnic in the gorgeous Royal Botanic Gardens. Enjoy incredible access to Melbourne’s oldest universities, best fresh food markets, and the country’s greatest sporting arenas.",
+    "TXT_EXCEPTIONAL_COLLABORATION_DEVELOPER": "DEVELOPER - GOLDEN SUNRISE",
+    "TXT_EXCEPTIONAL_COLLABORATION_DEVELOPER_LONG": "Combining an extensive range of property experience, both in Australia and overseas, with a commitment to the highest quality outcomes for all stakeholders, Golden Sunrise Development brings the ability to deliver on a vision of outstanding large-scale, multi-purpose projects, with a focus on green, energy efficient buildings that achieve a sustainable legacy long into the future.",
+    "TXT_EXCEPTIONAL_COLLABORATION_ARCHITECT": "ARCHITECT - BUCHAN GROUP",
+    "TXT_EXCEPTIONAL_COLLABORATION_ARCHITECT_LONG": "The Buchan Group is one of the largest architectural groups in Australasia and is widely recognised for its design excellence and depth of experience across an extensive portfolio of large scale developments. With a track record of outstanding service that extends back to 1890, the Buchan Group today is an interdisciplinary design powerhouse servicing clients throughout Australia, New Zealand, South-East Asia, the Middle East and the united Kingdom.",
 
     "BTN_TEXT_EN": "EN",
     "BTN_TEXT_CN": "CN"
