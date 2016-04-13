@@ -33,8 +33,10 @@
         /*Validation*/
         $("#contactform").validate({
             submitHandler: function (form) {
-                $(form).ajaxSubmit();
-                $(form).find('.formSent').show();
+                $(form).ajaxSubmit(function () {
+                    $(form).find('.formReady').hide();
+                    $(form).find('.formSent').show();
+                });
             }
         });
 
