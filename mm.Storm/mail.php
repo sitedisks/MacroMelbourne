@@ -2,10 +2,11 @@
 if(isset($_POST['email'])){
 		$mailTo = "peter@sitedisks.com.au";
 		$subject = "Enquiry from Marco Sky";
-		$body = "New message from Marco Sky Website<br><br> FROM: ".$_POST['email']."<br>NAME: ".$_POST['name']."<br>PHONE: ".$_POST['contact']."<br>COMMENTS: ".$_POST['message']."<br>";	
+		$body = "<small>New message from <h2>Marco Sky</h2></small><br><hr> <b><i><br/>From:</i></b> ".$_POST['email'].
+        "<br><b><i>Name:</i></b> ".$_POST['name']."<br><b><i>Contact:</i></b> ".$_POST['contact']."<br><br><h3>Message:</h3>".$_POST['message']."<br>";	
               
               
-		$headers = "To: Solido <".$mailTo.">\r\n";
+		$headers = "To: <".$mailTo.">\r\n";
 		$headers .= "From: ".$_POST['author']." <".$_POST['email'].">\r\n";
 		$headers .= "Content-Type: text/html";
     
