@@ -2,7 +2,7 @@
     "TXT_MACRO_MELBOURNE": "MACRO MELBOURNE",
     "TXT_MACRO_SKY": "MACRO SKY",
     "TXT_MENU_HOME": "首页",
-    "TXT_MENU_FEATURES": "特色",
+    "TXT_MENU_FEATURES": "关键字",
     "TXT_MENU_ABOUT": "关于我们",
     "TXT_MENU_TEAM": "团队",
     "TXT_MENU_GALLERY": "画廊",
@@ -15,9 +15,14 @@
     "TXT_REGISTER": "有兴趣请登记",
     "TXT_CALL_US": "或致电",
 
-    "TXT_PREMIMUM": "奢华",
-    "TXT_COMMUNITY": "社区",
-    "TXT_LOCATION": "位置",
+    "TXT_PREMIUM": "奢华品味",
+    "TXT_COMMUNITY": "高档社区",
+    "TXT_LOCATION": "核心位置",
+
+    "TXT_PREMIUM_LONG": "在Marco Skies我们旨在为您提供优质的生活方式。我们的厨房进行了升级，配备了Miele的不锈钢厨房用具，费舍尔雪派克冰箱辅以大理石台面和防溅板和单板木台面。所有浴室安装有花洒淋浴，加热三条铁路铬塔导轨。",
+    "TXT_COMMUNITY_LONG": "尽情享受我们为您提供的世界一流的社区设施，包括无边际泳池，健身房，电影院和包房。",
+    "TXT_LOCATION_LONG": "Marco Skies位于墨尔本首屈一指市内区。举步遍及超市，美食广场，儿童保健，办公室，零售商店，及已经批准待建的7天24小时医疗中心和公园。",
+
 
     "TXT_EXCEPTIONAL_LIVING": "独特的生活方式",
     "TXT_DISCOVER_EXCEPTIONAL": "感受Marco的独特",
