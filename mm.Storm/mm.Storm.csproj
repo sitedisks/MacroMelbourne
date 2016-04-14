@@ -248,6 +248,12 @@
     <Content Include="images\scrollup.png" />
     <Content Include="images\sitedisks_logo.png" />
     <Content Include="images\start-project.png" />
+    <Content Include="images\studio\Marco_BEACH_Image.jpg" />
+    <Content Include="images\studio\Marco_BRAND_GIRL-&amp;-SHOPPING.jpg" />
+    <Content Include="images\studio\Marco_BRAND_GOLF.jpg" />
+    <Content Include="images\studio\Marco_EXTERIOR-SECTION_CBD.jpg" />
+    <Content Include="images\studio\Marco_MCG_Image.jpg" />
+    <Content Include="images\studio\Marco_YARRA-RIVER_Image.jpg" />
     <Content Include="images\twitter.png" />
     <Content Include="images\underline.png" />
     <Content Include="images\zoom.png" />
