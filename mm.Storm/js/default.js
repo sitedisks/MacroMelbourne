@@ -318,6 +318,14 @@
             singleItem: true
         });
 
+        $("#owl-gallery").owlCarousel({
+            autoPlay: 5000,
+            navigation: false,
+            slideSpeed: 300,
+            paginationSpeed: 400,
+            singleItem: true
+        });
+
         $("#clients").owlCarousel({
 
             autoPlay: 3000, //Set AutoPlay to 3 seconds
