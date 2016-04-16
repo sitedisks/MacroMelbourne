@@ -151,6 +151,7 @@
     <Content Include="images\fine\Marco_hero-sunset-O.jpg" />
     <Content Include="images\fine\Marco_hero-sunset.jpg" />
     <Content Include="images\fine\Marco_living_dining_kitchen.jpg" />
+    <Content Include="images\fine\Marco_living_dining_kitchen_440.jpg" />
     <Content Include="images\gallery\Marco_BATHROOM_Render_800.jpg" />
     <Content Include="images\gallery\Marco_BEDROOM_Render_800.jpg" />
     <Content Include="images\gallery\Marco_EXTERIOR-SECTION_BAY_Render_800.jpg" />
@@ -250,11 +251,17 @@
     <Content Include="images\scrollup.png" />
     <Content Include="images\sitedisks_logo.png" />
     <Content Include="images\start-project.png" />
+    <Content Include="images\studio\Marco_ALBERT-PARK-GOLF-COURSE_Image.jpg" />
     <Content Include="images\studio\Marco_BEACH_Image.jpg" />
     <Content Include="images\studio\Marco_BRAND_GIRL-&amp;-SHOPPING.jpg" />
     <Content Include="images\studio\Marco_BRAND_GOLF.jpg" />
+    <Content Include="images\studio\Marco_CHINATOWN_Image.jpg" />
+    <Content Include="images\studio\Marco_CROWN-NIGHT_Image.jpg" />
     <Content Include="images\studio\Marco_EXTERIOR-SECTION_CBD.jpg" />
+    <Content Include="images\studio\Marco_FLINDERS-ST-STATION_Image.jpg" />
     <Content Include="images\studio\Marco_MCG_Image.jpg" />
+    <Content Include="images\studio\Marco_RMIT_Image.jpg" />
+    <Content Include="images\studio\Marco_Sth-Melb-Market_Image.jpg" />
     <Content Include="images\studio\Marco_YARRA-RIVER_Image.jpg" />
     <Content Include="images\twitter.png" />
     <Content Include="images\underline.png" />
