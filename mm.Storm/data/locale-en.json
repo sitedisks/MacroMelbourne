@@ -37,6 +37,25 @@
     "TXT_EXCEPTIONAL_COLLABORATION_ARCHITECT": "ARCHITECT - BUCHAN GROUP",
     "TXT_EXCEPTIONAL_COLLABORATION_ARCHITECT_LONG": "The Buchan Group is one of the largest architectural groups in Australasia and is widely recognised for its design excellence and depth of experience across an extensive portfolio of large scale developments. With a track record of outstanding service that extends back to 1890, the Buchan Group today is an interdisciplinary design powerhouse servicing clients throughout Australia, New Zealand, South-East Asia, the Middle East and the united Kingdom.",
 
+    "TXT_GALLERY_LONG": "We are a fun mix of designers and strategists with a great passion for all things creative",
+    "TXT_LOCATION_LONG": "Dive into all the action of modern city living in Melbourne",
+
+    "TXT_HELLO": "SAY HELLO!",
+    "TXT_IN_TOUCH": "get in touch",
+    "TXT_CALL_AT": "Call us at",
+    "TXT_VISIT_DISPLAY": "Visit our display at",
+    "TXT_MELBOURNE": "Melbourne",
+    "TXT_SYDNEY": "Sydney",
+
+    "TXT_NAME": "name",
+    "TXT_CONTACT": "contact",
+    "TXT_EMAIL": "email",
+    "TXT_MESSAGE": "message",
+
+    "TXT_MESSAGE_SENT": "Your Message Has Been Sent!",
+    "TXT_MESSAGE_THANKS": "Thank you for contacting us.",
+
+    "BTN_SUBMIT": "Submit",
     "BTN_TEXT_EN": "EN",
     "BTN_TEXT_CN": "CN"
 }

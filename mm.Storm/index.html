@@ -107,8 +107,9 @@
 
             </div>
             <div class="slide-subtitle">
-                
-                <p><a href="#contact">dfsd</a>
+
+                <p>
+                    <a href="#contact">dfsd</a>
                     {{'TXT_REGISTER' | translate}}<br />
                     {{'TXT_CALL_US' | translate}} +61 3 9696 7777
                 </p>
@@ -279,9 +280,8 @@
             <div class="container full-width">
                 <div class="row">
                     <div class="col-md-12 jt_col column_container">
-                        <h3 class="title thin">Gallery</h3>
-                        <p class="subtitle">We are a fun mix of designers and strategists with a great passion for all things creative.</p>
-                        <!--<a class="btn btn--alt" href="">join the team</a>-->
+                        <h3 class="title thin">{{'TXT_MENU_GALLERY' | translate}}</h3>
+                        <p class="subtitle">{{'TXT_GALLERY_LONG' | translate}}</p>
                     </div>
                 </div> <!-- End jt_row -->
             </div> <!-- End .container -->
@@ -330,11 +330,9 @@
             <div class="container">
                 <div class="row" style="padding-bottom: 80px;">
                     <div class="col-md-12 jt_col column_container">
-                        <h3 class="title thin">Location</h3>
-                        <p class="subtitle">Dive into all the action of modern city living in Melbourne</p>
-
+                        <h3 class="title thin">{{'TXT_MENU_LOCATION' | translate}}</h3>
+                        <p class="subtitle">{{'TXT_LOCATION_LONG' | translate}}</p>
                     </div>
-
                 </div>
             </div>
         </section>
@@ -351,60 +349,63 @@
             <div class="container full-width">
                 <div class="jt_row jt_row-fluid row">
                     <div class="col-md-12 jt_col column_container">
-                        <h3 class="supertitle">SAY HELLO! <span>get in touch</span></h3>
+                        <h3 class="supertitle">SAY HELLO! <span>{{'TXT_IN_TOUCH' | translate}}</span></h3>
                     </div>
                 </div>
                 <div class="jt_row jt_row-fluid">
                     <div class="col-md-3">
-                        <p><i class="fa fa-mobile-phone fa-lg" style="font-size:32px;"></i><span>Call us at</span><span>+61 3 9696 7777</span></p>
+                        <p><i class="fa fa-mobile-phone fa-lg" style="font-size:32px;"></i><span>{{'TXT_CALL_AT' | translate}}</span><span>+61 3 9696 7777</span></p>
 
                     </div>
                     <div class="col-md-3">
                         <p>
                             <i class="fa fa-map-marker fa-lg" style="font-size:32px;"></i>
-                            <span>Visit our display at</span><span>216 City Road </span><span>Southbank VIC 3006</span>
+                            <span>{{'TXT_VISIT_DISPLAY' | translate}}</span><span>216 City Road </span><span>Southbank VIC 3006</span>
                             <!--<span>42-48 Balston Street</span> <span>Southbank Melbourne</span><span>Victoria Australia</span>-->
                         </p>
                     </div>
                     <div class="col-md-3">
                         <p>
-                            <i class="fa fa-user fa-lg" style="font-size:32px;"></i>
-
-                            <span>Melbourne</span>
+                            <i class="fa fa-envelope-o fa-lg" style="font-size:32px;"></i>
+                            <span>{{'TXT_MELBOURNE' | translate}}</span>
+                            <span><small><b>Kristine Tan</b> <i class="fa fa-mobile-phone" style="font-size:12px;"></i> 0421 240 369</small></span>
                             <span><small><i class="fa fa-envelope" style="font-size:12px;"></i> kristine@dynamicresidential.com.au </small></span>
-                            <span><small><i class="fa fa-user-plus" style="font-size:12px;"></i> Kristine Tan: 0421 240 369</small></span>
-                            <span>Sydney</span>
+                        </p>
+                    </div>
+                    <div class="col-md-3">
+                        <p>
+                            <i class="fa fa-envelope-o fa-lg" style="font-size:32px;"></i>
+                            <span>{{'TXT_SYDNEY' | translate}}</span>
+                            <span><small><b>Rina Jiang</b> <i class="fa fa-mobile-phone" style="font-size:12px;"></i> 0406 179 902</small></span>
                             <span><small><i class="fa fa-envelope" style="font-size:12px;"></i> mq.rina@hotmail.com</small></span>
-                            <span><small><i class="fa fa-user-plus" style="font-size:12px;"></i> Rina Jiang: 0406 179 902</small></span>
                         </p>
 
                     </div>
-                    <div class="col-md-3">
+                    <!--<div class="col-md-3">
                         <p><i class="fa fa-envelope-o fa-lg" style="font-size:32px;"></i><span>Email us at</span><span>hello@marcoskies.com.au</span></p>
-                    </div>
+                    </div>-->
                 </div>
                 <div class="col-md-12 jt_row jt_row-fluid jt_col column_container">
                     <!--<h3 class="title thin">Let´s Chat!</h3>-->
-                    <h3 class="title thin">Register Your Interest</h3>
+                    <h3 class="title thin">{{'TXT_REGISTER' | translate}}</h3>
                 </div>
                 <div class="col-md-12 jt_row jt_row-fluid jt_col column_container">
                     <form action="mail.php" method="post" id="contactform" class="contact-form">
                         <div class="formReady">
                             <div class="col-md-4 col-md-offset-2">
-                                <input type="text" id="name" name="name" placeholder="name" class="required name" tabindex="1">
-                                <input type="email" id="email" name="email" placeholder="email" tabindex="3">
+                                <input type="text" id="name" name="name" placeholder="{{'TXT_NAME' | translate}}" class="required name" tabindex="1" />
+                                <input type="email" id="email" name="email" placeholder="{{'TXT_CONTACT' | translate}}" tabindex="3" />
                             </div>
                             <div class="col-md-4">
-                                <input type="text" id="contact" name="contact" placeholder="contact" class="required" tabindex="2">
-
-                                <input type="text" id="message" name="message" placeholder="message" tabindex="4">
+                                <input type="text" id="contact" name="contact" placeholder="{{'TXT_EMAIL' | translate}}" class="required" tabindex="2" />
+                                <input type="text" id="message" name="message" placeholder="{{'TXT_MESSAGE' | translate}}" tabindex="4" />
                                 <!--<textarea id="message" name="message" cols="30" rows="4" placeholder="message" class="required area"></textarea>-->
                             </div>
                             <div class="col-lg-12 col-md-12">
-                                <input type="submit" class="btn btn--alt" value="SUBMIT">
+                                <input type="submit" class="btn btn-alt" value="{{'BTN_SUBMIT' | translate}}">
                             </div>
                         </div>
-                        <div class="formSent"><strong>Your Message Has Been Sent!</strong> Thank you for contacting us.</div>
+                        <div class="formSent"><strong>{{'TXT_MESSAGE_SENT' | translate}}</strong> {{'TXT_MESSAGE_THANKS' | translate}}</div>
                     </form>
                 </div>
             </div> <!-- End .container -->
@@ -433,7 +434,7 @@
         <footer id="footer" class="section footer" role="contentinfo">
             <div class="container">
                 <div class="copyright">
-                    © Copyrights 2015 Macro Melbourne, all rights reserved. Terms of use  |  Privacy policy
+                    © Copyrights 2015 Macro Skies, all rights reserved. <!--Terms of use  |  Privacy policy-->
                 </div>
                 <div class="logo--footer">
                     <a href="#">

@@ -37,6 +37,25 @@
     "TXT_EXCEPTIONAL_COLLABORATION_ARCHITECT": "设计 - Buchan集团",
     "TXT_EXCEPTIONAL_COLLABORATION_ARCHITECT_LONG": "Buchan集团是澳洲利亚最大的建筑设计公司之一，其优异设计和丰富经验体现在广泛的作品中。Buchan集团创建于1890年，作为一个跨学科的设计公司，它的客户遍布澳大利亚，新西兰，东南亚，中东和英国。",
 
+    "TXT_GALLERY_LONG": "对于建筑，组合及创新有极大热情的设计师",
+    "TXT_LOCATION_LONG": "潜入在墨尔本的现代城市生活",
+
+    "TXT_HELLO": "SAY HELLO!",
+    "TXT_IN_TOUCH": "取得联系",
+    "TXT_CALL_AT": "请致电",
+    "TXT_VISIT_DISPLAY": "展示中心",
+    "TXT_MELBOURNE": "墨尔本",
+    "TXT_SYDNEY": "悉尼",
+
+    "TXT_NAME": "名字",
+    "TXT_CONTACT": "电话",
+    "TXT_EMAIL": "电邮",
+    "TXT_MESSAGE": "留言",
+
+    "TXT_MESSAGE_SENT": "信息已经发送",
+    "TXT_MESSAGE_THANKS": "感谢您联系我们.",
+
+    "BTN_SUBMIT": "递交",
     "BTN_TEXT_EN": "英",
     "BTN_TEXT_CN": "中"
 }
