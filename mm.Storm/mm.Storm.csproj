@@ -146,12 +146,18 @@
     <Content Include="images\contact-name-gray.png" />
     <Content Include="images\contact-name.png" />
     <Content Include="images\facebook.png" />
+    <Content Include="images\fine\Marco-Balston-Exterior-dusk-5k.jpg" />
     <Content Include="images\fine\Marco_FACADE_Render-O.jpg" />
     <Content Include="images\fine\Marco_FACADE_Render.jpg" />
     <Content Include="images\fine\Marco_hero-sunset-O.jpg" />
     <Content Include="images\fine\Marco_hero-sunset.jpg" />
     <Content Include="images\fine\Marco_living_dining_kitchen.jpg" />
     <Content Include="images\fine\Marco_living_dining_kitchen_440.jpg" />
+    <Content Include="images\fine\Marco_living_dining_kitchen_730.jpg" />
+    <Content Include="images\gallery\Balston-Bathroom-5k_C_800.jpg" />
+    <Content Include="images\gallery\Balston-St_Kitchen_Living_5K_800.jpg" />
+    <Content Include="images\gallery\Kitchen-Elevation_01_800.jpg" />
+    <Content Include="images\gallery\Kitchen-Elevation_03_800.jpg" />
     <Content Include="images\gallery\Marco_BATHROOM_Render_800.jpg" />
     <Content Include="images\gallery\Marco_BEDROOM_Render_800.jpg" />
     <Content Include="images\gallery\Marco_EXTERIOR-SECTION_BAY_Render_800.jpg" />
@@ -343,7 +349,7 @@
     <VisualStudio>
       <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
         <WebProjectProperties>
-          <UseIIS>True</UseIIS>
+          <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>32017</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>

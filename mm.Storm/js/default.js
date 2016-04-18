@@ -319,9 +319,9 @@
         });
 
         $("#owl-gallery").owlCarousel({
-            autoPlay: 5000,
+            autoPlay: 4000,
             navigation: false,
-            slideSpeed: 300,
+            slideSpeed: 400,
             paginationSpeed: 400,
             singleItem: true
         });
