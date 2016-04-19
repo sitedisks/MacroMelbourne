@@ -582,7 +582,7 @@ a.navbar-brand.mini {
 }
 
 #header.overflow.fixed .navbar-toggle {
-    color: #000;
+    color: #fff;
 }
 
 #header .menu-item a {
@@ -5715,7 +5715,7 @@ img.mfp-img {
     }
 
     #maps.normal {
-        height: 350px;
+        height: 600px;
         margin-bottom: -100px;
     }
 
@@ -5876,7 +5876,7 @@ img.mfp-img {
 
     #maps {
         margin-bottom: 150px;
-        height: 350px;
+        height: 600px;
     }
 
     .inner-map {

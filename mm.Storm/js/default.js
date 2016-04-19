@@ -114,10 +114,33 @@
             $('.collapse.in').collapse('hide');
         });
 
-        $('#registerme').click(function () {
-            //alert('dd');
-            $('#home-slider').css("margin-top", "140px");
+        // IE hack
+        $('#nav a').click(function () {
+            var isIE = /*@cc_on!@*/false || !!document.documentMode;
+            if(isIE)
+                $('#home-slider').css("margin-top", "140px");
         });
+
+        $('#homeie').click(function () {
+            var isIE = /*@cc_on!@*/false || !!document.documentMode;
+            if (isIE)
+                $('#home-slider').css("margin-top", "0px");
+        });
+
+        $('#registerme').click(function () {
+            if ($(window).width() > 1025)
+                $('#home-slider').css("margin-top", "140px");
+            else if ($(window).width() > 800)
+                $('#home-slider').css("margin-top", "100px");
+            else if($(window).width() >= 768)
+                $('#home-slider').css("margin-top", "60px");
+            else if ($(window).width() < 768)
+                $('#home-slider').css("margin-top", "50px");
+        });
+
+        if ($(window).width()>=768 && $(window).width() <= 1024) {
+            $('#bar-logo').css("height", "40px");
+        }
 
 
     }); // End document ready
