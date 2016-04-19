@@ -56,11 +56,6 @@
         // });
 
 
-
-
-
-
-
         $('.folio-project').on('click', function () {
             var href = $(this).attr('href');
             if ($('#ajax').is(':visible')) {
@@ -75,6 +70,7 @@
                 });
             });
         });
+
         if (!$('#ip-container').hasClass('single')) {
             $(window).on("scroll", function () { //when the user is scrolling...
                 if ($(window).scrollTop() >= 100) { //header hide by scroll
@@ -101,10 +97,6 @@
         $("#we-are ul").idTabs();
 
 
-
-
-
-
         /*Sections appears in scroll*/
         $('.jt_row').on('inview', function (event, visible) {
             if (visible === true) {
@@ -122,9 +114,13 @@
             $('.collapse.in').collapse('hide');
         });
 
+        $('#registerme').click(function () {
+            //alert('dd');
+            $('#home-slider').css("margin-top", "140px");
+        });
+
 
     }); // End document ready
-
 
     $(document).ajaxComplete(function () {
         "use strict";
@@ -189,8 +185,13 @@
             transitionStyle: "fadeUp",
             singleItem: true
         });
+
         $('#home-slider').height($(window).height());
-        if ($(window).width() > 1024) { $('.slider-parallax').css('padding-top', $(window).height() + 'px'); }
+
+        if ($(window).width() > 1024) {
+            $('.slider-parallax').css('padding-top', $(window).height() + 'px');
+        }
+
         /* Home background slider */
         $("#owl-main").owlCarousel({
             autoPlay: 10000,
@@ -375,9 +376,6 @@
         if ($(window).width() > 1024) { $('.slider-parallax').css('padding-top', $(window).height() + 'px'); }
     });
 
-
-
-
     /* Parallax */
     jQuery(document).ready(function ($) {
         "use strict";
@@ -408,7 +406,6 @@
         }
     });
 
-
     jQuery(document).ready(function () {
         jQuery(".corner").click(function () {
             jQuery('#customizer').toggleClass('s-open');
@@ -418,6 +415,7 @@
     function swapStyleSheet(sheet) {
         document.getElementById('general-css').setAttribute('href', sheet);
     }
+
 }(jQuery));
 
 (function () {
