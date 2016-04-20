@@ -396,7 +396,7 @@ body, input, textarea {
 
 .container {
     width: 1241px;
-    padding-top: 140px;
+    padding-top: 60px;
     margin: 0px auto;
 }
 
@@ -1888,7 +1888,7 @@ div#owl-project-single.owl-carousel.generic-carousel.owl-theme {
     }
 
 #gallery {
-    padding: 200px 0 0 0;
+    padding: 60px 0 0 0;
 }
 
     #gallery .row {
