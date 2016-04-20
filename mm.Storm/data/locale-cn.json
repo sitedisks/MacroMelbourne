@@ -2,7 +2,7 @@
     "TXT_MACRO_MELBOURNE": "MACRO MELBOURNE",
     "TXT_MACRO_SKY": "MACRO SKIES",
     "TXT_MENU_HOME": "首页",
-    "TXT_MENU_FEATURES": "关键字",
+    "TXT_MENU_FEATURES": "特点",
     "TXT_MENU_ABOUT": "关于我们",
     "TXT_MENU_TEAM": "团队",
     "TXT_MENU_GALLERY": "画廊",
@@ -21,9 +21,9 @@
     "TXT_LOCATION": "核心位置",
 
     "TXT_PREMIUM_LONG": "在Marco Skies我们旨在为您提供优质的生活方式。我们的厨房进行了升级，配备了Miele的不锈钢厨房用具，费舍尔雪派克冰箱辅以大理石台面和防溅板和单板木台面。所有浴室安装有花洒淋浴，加热三条铁路铬塔导轨。",
-    "TXT_APARTMENT_LONG": "在Marco Skies我们旨在为您提供优质的生活方式。我们的厨房进行了升级，配备了Miele的不锈钢厨房用具，费舍尔雪派克冰箱辅以大理石台面和防溅板和单板木台面。所有浴室安装有花洒淋浴，加热三条铁路铬塔导轨。",
-    "TXT_COMMUNITY_LONG": "社区独家为居民提供一流的服务，休闲娱乐空间，俯瞰全城，拥有令人惊叹的无边泳池，令人惊叹的健身设施，装饰典雅的餐厅和豪华私人影院，定会为您留下深刻印象。",
-    "TXT_LOCATION_LONG": "Marco Skies位于墨尔本首屈一指市内区。墨尔本市议会已获准一个大型购物中心，综合体开发。举步可至超市，零售店，美食广场，儿童保育，写字楼。",
+    "TXT_APARTMENT_LONG": "Marco Skies公寓为住户提供极其奢华的的生活品质。开放式的厨房采用了德国美诺公司的不锈钢厨具，内藏式的冰箱，纯天然大理石桌面和内墙，美观大方的木纹贴面橱柜和实木地板。卫浴也选用了高档的花洒淋浴，大理石梳妆台，加热毛巾架等。",
+    "TXT_COMMUNITY_LONG": "俱乐部为住户提供一流的休闲娱乐空间，齐全的设施包括无边际游泳池，健身房，私人宴会厅和电影院，住户在享受生活乐趣的同时还可以俯瞰城市美景，使你心旷神怡，流连忘返。",
+    "TXT_LOCATION_LONG": "Marco Skies坐拥非凡的地理位置，周围的服务设施一应俱全。更为欣喜的是，墨尔本市政厅最近批准一个大型购物中心将建在Marco Skies的对面。不久将来，超市，美食广场，儿童保育中心，商店和办公大楼只是举步之遥。",
 
     "TXT_VIDEO_TEXT": "MARCO SKIES - 精湛的品质，旨在大放异彩",
 
@@ -31,14 +31,14 @@
     "TXT_DISCOVER_EXCEPTIONAL": "感受Marco的独特",
     "TXT_EXCEPTIONAL_COLLABORATION": "卓越的合作团队",
 
-    "TXT_EXCEPTIONAL_LIVING_LONG": "Marco，位于墨尔本Southbank心脏地带，由著名的Buchan集团精心设计成一个水晶般视觉效果的公寓。Marco坐拥非同寻常的地理位置，它以一個卓越的姿態出現在墨尔本天际线上，邀請你一起享受360°全方位的景观 - 它俯瞰墨尔本CBD，艾伯特公园，澳洲文化艺术中心，菲利海湾。Marco俱乐部向住戶提供一流悠闲和娱乐设施如健身房，游泳池，宴客厅和电影院。这个引人注目的现代化公寓堪舆五星级酒店媲美。",
+    "TXT_EXCEPTIONAL_LIVING_LONG": "Marco Skies以一個卓越的姿態出現在墨尔本天际线上，容你眺望无穷无尽的壮观景色，公寓的豪华装修更使你的生活提高到一个新的标准。木质的橱柜装修散发出的温暖，使整个厨房的质量提高到另一个层面。美丽的橡木拼花地板使周围的灯光和色调更好地呈现出来。",
     "TXT_DISCOVER_EXCEPTIONAL_LONG": "只要花几分钟就可以抵达河岸上所有的活动。体验皇冠赌场激动人心的场面。漫步在索斯盖特购物广场，或者参观闻名的文艺景点。穿过亚拉河，探索市中心奇妙的巷子里隐藏的宝藏。发掘独特的澳洲酒吧文化，世界闻名的餐厅和具有历史的剧院。花一个阳光明媚的下午在艾伯特公园河边游玩和上高尔夫课程。在绮丽的皇家植物园野餐。无拘无束的畅游在墨尔本最古老的大学，著名画廊，维多利亚女王市场，和国家最好的运动竞技场。",
     "TXT_EXCEPTIONAL_COLLABORATION_DEVELOPER": "发展商 - 金色阳光公司",
     "TXT_EXCEPTIONAL_COLLABORATION_DEVELOPER_LONG": "金色阳光开发公司在澳大利亚和海外都有着丰富的物业开发经验，多年来专注于开发优质，大规模，多用途，使用环保能源和高水准的物业。",
     "TXT_EXCEPTIONAL_COLLABORATION_ARCHITECT": "设计 - Buchan集团",
     "TXT_EXCEPTIONAL_COLLABORATION_ARCHITECT_LONG": "Buchan集团是澳洲利亚最大的建筑设计公司之一，其优异设计和丰富经验体现在广泛的作品中。Buchan集团创建于1890年，作为一个跨学科的设计公司，它的客户遍布澳大利亚，新西兰，东南亚，中东和英国。",
 
-    "TXT_GALLERY_LONG": "对于建筑，组合及创新有极大热情的设计师",
+    "TXT_GALLERY_LONG": "我们的设计师热衷于既有艺术感又实用的设计",
     "TXT_LOCATION_TEXT": "潜入在墨尔本的现代城市生活",
 
     "TXT_HELLO": "SAY HELLO!",
