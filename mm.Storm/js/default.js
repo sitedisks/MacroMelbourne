@@ -115,15 +115,17 @@
         });
 
         // IE hack
+        var isIE = /*@cc_on!@*/false || !!document.documentMode;
+        var isFirefox = typeof InstallTrigger !== 'undefined';
+
         $('#nav a').click(function () {
-            var isIE = /*@cc_on!@*/false || !!document.documentMode;
-            if(isIE)
+            if (isIE || isFirefox) {
                 $('#home-slider').css("margin-top", "140px");
+            }
         });
 
         $('#homeie').click(function () {
-            var isIE = /*@cc_on!@*/false || !!document.documentMode;
-            if (isIE)
+            if (isIE || isFirefox)
                 $('#home-slider').css("margin-top", "0px");
         });
 
@@ -132,13 +134,13 @@
                 $('#home-slider').css("margin-top", "140px");
             else if ($(window).width() > 800)
                 $('#home-slider').css("margin-top", "100px");
-            else if($(window).width() >= 768)
+            else if ($(window).width() >= 768)
                 $('#home-slider').css("margin-top", "60px");
             else if ($(window).width() < 768)
                 $('#home-slider').css("margin-top", "50px");
         });
 
-        if ($(window).width()>=768 && $(window).width() <= 1024) {
+        if ($(window).width() >= 768 && $(window).width() <= 1024) {
             $('#bar-logo').css("height", "40px");
         }
 
