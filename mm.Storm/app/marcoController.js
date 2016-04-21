@@ -1,7 +1,7 @@
 ﻿(function () {
     'use strict';
 
-    angular.module('macroApp').controller('macroAppCtrl', ['$scope', '$translate',
+    angular.module('marcoApp').controller('marcoAppCtrl', ['$scope', '$translate',
         function ($scope, $translate) {
             
             $scope.changeLanguage = changeLanguage;

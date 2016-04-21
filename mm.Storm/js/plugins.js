@@ -217,7 +217,7 @@ $(document).ready(function () {
 		     }
 
 		     var infowindow = new google.maps.InfoWindow(
-             { content: 'Macro Melbourne<br/>42-48 Balston Street Southbank Melbourne, Victoria Australia' });
+             { content: 'Marco Melbourne<br/>42-48 Balston Street Southbank Melbourne, Victoria Australia' });
 
 		     infowindow.open(wpgmappitymap, marker0);
 		 });

@@ -1,7 +1,7 @@
 ﻿(function () {
     'use strict';
 
-    angular.module('macroApp').config(['$translateProvider', function ($translateProvider) {
+    angular.module('marcoApp').config(['$translateProvider', function ($translateProvider) {
        
         $translateProvider
             .translations('en', {

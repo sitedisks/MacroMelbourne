@@ -58,9 +58,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".DS_Store" />
-    <Content Include="app\macroConfig.js" />
-    <Content Include="app\macroController.js" />
-    <Content Include="css\macro.css" />
+    <Content Include="app\marcoConfig.js" />
+    <Content Include="app\marcoController.js" />
+    <Content Include="css\marco.css" />
     <Content Include="css\storm.css" />
     <Content Include="fonts\fontawesome-webfont.eot" />
     <Content Include="fonts\fontawesome-webfont.ttf" />
@@ -186,18 +186,18 @@
     <Content Include="images\logo--footer.png" />
     <Content Include="images\logo.png" />
     <Content Include="images\logo\growland_logo_b_350.png" />
-    <Content Include="images\logo\logo_macro_b.png" />
-    <Content Include="images\logo\logo_macro_text_b.png" />
-    <Content Include="images\logo\logo_macro_text_w.png" />
-    <Content Include="images\logo\logo_macro_w.png" />
+    <Content Include="images\logo\logo_marco_b.png" />
+    <Content Include="images\logo\logo_marco_text_b.png" />
+    <Content Include="images\logo\logo_marco_text_w.png" />
+    <Content Include="images\logo\logo_marco_w.png" />
     <Content Include="images\logo\logo_sitedisks.png" />
     <Content Include="images\logo\logo_sitedisks_b.png" />
-    <Content Include="images\logo\macrosky_logo_text_350.png" />
-    <Content Include="images\logo\macrosky_logo_text_b.png" />
-    <Content Include="images\logo\macrosky_logo_text_w.png" />
-    <Content Include="images\logo\macro_logo_bg_126.png" />
-    <Content Include="images\logo\macro_logo_gold.png" />
-    <Content Include="images\logo\macro_logo_text_b_350.png" />
+    <Content Include="images\logo\marcosky_logo_text_350.png" />
+    <Content Include="images\logo\marcosky_logo_text_b.png" />
+    <Content Include="images\logo\marcosky_logo_text_w.png" />
+    <Content Include="images\logo\marco_logo_bg_126.png" />
+    <Content Include="images\logo\marco_logo_gold.png" />
+    <Content Include="images\logo\marco_logo_text_b_350.png" />
     <Content Include="images\map\pointer-black.png" />
     <Content Include="images\map\pointer-blue.png" />
     <Content Include="images\map\pointer-green.png" />
@@ -294,7 +294,7 @@
     <Content Include="js\jquery.mb.YTPlayer.js" />
     <Content Include="js\jquery.nav.js" />
     <Content Include="js\jquery.validate.js" />
-    <Content Include="app\macroApp.js" />
+    <Content Include="app\marcoApp.js" />
     <Content Include="js\modernizr.custom.js" />
     <Content Include="js\owl-carousel\AjaxLoader.gif" />
     <Content Include="js\owl-carousel\grabbing.png" />
