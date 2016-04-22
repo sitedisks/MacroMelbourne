@@ -231,7 +231,13 @@ a img {
     min-height: 800px;
 }
 
-
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+    #header a img.centerlogo {
+        position: absolute !important;
+        left: 50% !important;
+        margin-left: -30px !important;
+    }
+}
 
 
 /* ==============================
@@ -5464,7 +5470,7 @@ img.mfp-img {
 @media only screen and (min-device-width : 414px) and (max-device-width : 736px) {
 
     #header a img {
-        width: 75px !important;
+        /*width: 75px !important;*/
     }
 
     #owl-main-text {
@@ -5786,8 +5792,13 @@ img.mfp-img {
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
 
-    #header a img {
+    #header a img.centerlogo {
         width: 20%;
+        margin-left: -34px !important;
+    }
+
+    #header a img {
+        width: 60%;
         margin-left: -34px !important;
     }
 
