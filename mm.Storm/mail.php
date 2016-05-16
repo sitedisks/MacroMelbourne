@@ -4,7 +4,8 @@ if(isset($_POST['email'])){
 	  $mailToPeter = "peter@sitedisks.com.au";
 		$mailToElsa = "Elsa.lin@goldensunrise.com.au";
 		$mailToKristine = "kristine@dynamicresidential.com.au";
-    $mailTo = "peter@sitedisks.com.au,Elsa.lin@goldensunrise.com.au,kristine@dynamicresidential.com.au";
+    
+    $mailTo = "peter@sitedisks.com.au,Elsa.lin@goldensunrise.com.au,sam.liu@goldensunrise.com.au";
     
 		$subject = "Enquiry from Marco Sky";
 		$body = "<small>New message from <h2>Marco Sky</h2></small><br><hr> <b><i><br/>From:</i></b> ".$_POST['email'].
